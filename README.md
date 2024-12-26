@@ -1,2 +1,11 @@
-# dicoding-data-analysis
-This project is the final assignment for the 'Data Analysis for Beginners' course at Dicoding Indonesia. It focuses on analyzing sales data and building an interactive dashboard using Streamlit to visualize key insights.
+# E-Commerce Public Dataset
+## Setup Environment - Google Colab
+1. Buka notebook di Google Colab
+2. Intall dependencies  
+```!pip install -r requirements.txt```  
+## Setup Environment - Shell/Terminal
+```cd /path/to/your/project-folder```  
+```pipenv shell```  
+```pip install -r requirements.txt```  
+## Run Streamlit App
+```streamlit run dashboard.py```
